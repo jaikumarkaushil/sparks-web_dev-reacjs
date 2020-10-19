@@ -1,0 +1,3 @@
+[submodule "sparks-restapi"]
+	path = sparks-restapi
+	url = https://github.com/jaikumarkaushil/sparks-restapi.git
