@@ -1,0 +1,1 @@
+export const baseUrl = 'https://sparks-bank-api.herokuapp.com/';
